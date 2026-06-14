@@ -3,9 +3,6 @@
 
 QRScan is a web-based platform that enables users to generate, download, and scan QR codes in real time through a responsive and intuitive interface.
 
-# Live Demo
-
-
 ## Features
 
 * Generate QR Codes from text or URLs
